@@ -1,0 +1,3 @@
+[LOG] Generating DSA 2048-bit key pair 
+read DSA key
+writing DSA key

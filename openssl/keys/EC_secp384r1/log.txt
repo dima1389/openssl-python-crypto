@@ -1,0 +1,9 @@
+[LOG] Generating EC key with curve secp384r1 
+read EC key
+writing EC key
+read EC key
+writing EC key
+read EC key
+writing EC key
+read EC key
+writing EC key
