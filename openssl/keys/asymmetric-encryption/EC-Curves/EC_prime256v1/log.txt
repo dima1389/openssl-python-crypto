@@ -1,9 +1,0 @@
-[LOG] Generating EC key with curve prime256v1 
-read EC key
-writing EC key
-read EC key
-writing EC key
-read EC key
-writing EC key
-read EC key
-writing EC key

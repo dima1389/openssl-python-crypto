@@ -1,0 +1,9 @@
+{
+  "timestamp": "ned 15.06.2025. 18:56:51",
+  "algorithm": "RSA",
+  "bits": "3072",
+  "output_folder": "keys\\asymmetric-encryption\\RSA\\RSA3072",
+  "generated_files": [
+  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"97ebe7c5430c48cccec4cd1b514f6bffe9a561502af1c5550704078e0487e26b\"\n  },\n  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"480b2c3648cf81b26ca1ceef573b1ab645e13e9a0848bab2c3bcf9114652f22a\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"0e069a228400a39ab35f521f623ad8b7dd36d4391a6e7dc9e7924b2c9d056786\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"9a0e270987de7f69e3253c118c1c7e983ba487a723aa4e72750cc75bb83c4217\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },
+  ]
+}

@@ -1,1 +1,0 @@
-[LOG] Generating AES 128-bit key 

@@ -1,0 +1,6 @@
+timestamp: "ned 15.06.2025. 18:56:53"
+algorithm: "EC"
+curve: "secp384r1"
+output_folder: "keys\\asymmetric-encryption\\EC-Curves\\EC_secp384r1"
+generated_files:
+- file: private_key.pem\n  sha256: 3caf38c36e5ae501b3c1e704a7a79c5e38e8806edb509e14fbbbbb20ca958b77\n- file: private_key.pem\n  sha256: CertUtil:\n- file: private_key.der\n  sha256: f441374ebe0be98598f00a4d40748619927afd2c9e6a735aaa1870f7c0462f36\n- file: private_key.der\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: 28216ac0011b7803e6a77aae001b457f10ed56b7f1139269d1746482e836179f\n- file: public_key.pem\n  sha256: CertUtil:\n- file: public_key.der\n  sha256: 77652fed5fe5f0bea0976c139403042aede3766a0df5c8d77f69144c0cbc5429\n- file: public_key.der\n  sha256: CertUtil:\n

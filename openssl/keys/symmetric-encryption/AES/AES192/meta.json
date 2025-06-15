@@ -1,0 +1,9 @@
+{
+  "timestamp": "ned 15.06.2025. 18:56:50",
+  "algorithm": "AES",
+  "bits": "192",
+  "output_folder": "keys\\symmetric-encryption\\AES\\AES192",
+  "generated_files": [
+  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"2d600e393db49825e5cd6c2da493a93fbb968f8b235df7cdf436c257a9a736f5\"\n  },\n  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"CertUtil:\"\n  },
+  ]
+}

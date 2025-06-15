@@ -1,28 +1,15 @@
-[ned 15.06.2025. 18:50:40] === Key Generation Started === 
-[ned 15.06.2025. 18:50:40] Generating AES 128-bit key -
-[ned 15.06.2025. 18:50:40] AES 128-bit key generation DONE 
-[ned 15.06.2025. 18:50:40] Generating AES 192-bit key -
-[ned 15.06.2025. 18:50:40] AES 192-bit key generation DONE 
-[ned 15.06.2025. 18:50:40] Generating AES 256-bit key -
-[ned 15.06.2025. 18:50:40] AES 256-bit key generation DONE 
-[ned 15.06.2025. 18:50:40] Generating RSA 2048-bit key -
-[ned 15.06.2025. 18:50:40] RSA 2048-bit key generation DONE 
-[ned 15.06.2025. 18:50:40] Generating RSA 3072-bit key -
-[ned 15.06.2025. 18:50:40] RSA 3072-bit key generation DONE 
-[ned 15.06.2025. 18:50:40] Generating RSA 4096-bit key -
-[ned 15.06.2025. 18:50:41] RSA 4096-bit key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating EC key with curve prime256v1 -
-[ned 15.06.2025. 18:50:41] EC prime256v1 key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating EC key with curve secp384r1 -
-[ned 15.06.2025. 18:50:41] EC secp384r1 key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating EC key with curve secp521r1 -
-[ned 15.06.2025. 18:50:41] EC secp521r1 key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating EC key with curve secp256k1 -
-[ned 15.06.2025. 18:50:41] EC secp256k1 key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating DSA 2048-bit key -
-[ned 15.06.2025. 18:50:41] DSA 2048-bit key generation DONE 
-[ned 15.06.2025. 18:50:41] Generating ED25519 key -
-[ned 15.06.2025. 18:50:42] ED25519 key generation DONE 
-[ned 15.06.2025. 18:50:42] Generating ED448 key -
-[ned 15.06.2025. 18:50:42] ED448 key generation DONE 
-[ned 15.06.2025. 18:50:42] === Key Generation Complete === 
+[ned 15.06.2025. 18:56:50] === Key Generation Started === 
+[ned 15.06.2025. 18:56:50] Generated AES 128-bit key -
+[ned 15.06.2025. 18:56:50] Generated AES 192-bit key -
+[ned 15.06.2025. 18:56:50] Generated AES 256-bit key -
+[ned 15.06.2025. 18:56:50] Generated RSA 2048-bit key pair -
+[ned 15.06.2025. 18:56:51] Generated RSA 3072-bit key pair -
+[ned 15.06.2025. 18:56:52] Generated RSA 4096-bit key pair -
+[ned 15.06.2025. 18:56:52] Generated EC prime256v1 key -
+[ned 15.06.2025. 18:56:52] Generated EC secp384r1 key -
+[ned 15.06.2025. 18:56:53] Generated EC secp521r1 key -
+[ned 15.06.2025. 18:56:53] Generated EC secp256k1 key -
+[ned 15.06.2025. 18:56:54] Generated DSA 2048-bit key -
+[ned 15.06.2025. 18:56:54] Generated ED25519 key -
+[ned 15.06.2025. 18:56:54] Generated ED448 key -
+[ned 15.06.2025. 18:56:54] === Key Generation Complete === 

@@ -1,0 +1,6 @@
+timestamp: "ned 15.06.2025. 18:56:52"
+algorithm: "EC"
+curve: "prime256v1"
+output_folder: "keys\\asymmetric-encryption\\EC-Curves\\EC_prime256v1"
+generated_files:
+- file: private_key.pem\n  sha256: 62bee01de64af2431d6c46aa57556ca8e016749bb5a54daf86033ef506b05875\n- file: private_key.pem\n  sha256: CertUtil:\n- file: private_key.der\n  sha256: 50598ad6c703609670c27d3b64ea5ac26d44492a888205f568b50f29c7d96a51\n- file: private_key.der\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: ea68b342cc33fb5a9111c41dcdba20271ffe81b742d341120e95691da07aa349\n- file: public_key.pem\n  sha256: CertUtil:\n- file: public_key.der\n  sha256: 0bf53382f4425439c6ba9e176c13e29d8d1c015cbd763910830949c24028a675\n- file: public_key.der\n  sha256: CertUtil:\n

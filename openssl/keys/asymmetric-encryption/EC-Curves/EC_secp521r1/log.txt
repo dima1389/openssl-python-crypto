@@ -1,9 +1,0 @@
-[LOG] Generating EC key with curve secp521r1 
-read EC key
-writing EC key
-read EC key
-writing EC key
-read EC key
-writing EC key
-read EC key
-writing EC key

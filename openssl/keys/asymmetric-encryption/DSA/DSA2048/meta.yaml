@@ -1,0 +1,6 @@
+timestamp: "ned 15.06.2025. 18:56:54"
+algorithm: "DSA"
+bits: "2048"
+output_folder: "keys\\asymmetric-encryption\\DSA\\DSA2048"
+generated_files:
+- file: dsaparam.pem\n  sha256: 760ba6f148eafd6186e74630940a253fd2082ce8c5ffdef6ae1e9571b0568fa3\n- file: dsaparam.pem\n  sha256: CertUtil:\n- file: private_key.pem\n  sha256: b1e4884c4c86a446a0a36a1170c8ced653f396cc195728ccfebd07d2993bd52e\n- file: private_key.pem\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: e1b378a8e5613f452f38c64ebba6b3bdf723100c53be305a29f5201329fc3c97\n- file: public_key.pem\n  sha256: CertUtil:\n

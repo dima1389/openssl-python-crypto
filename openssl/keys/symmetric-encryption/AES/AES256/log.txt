@@ -1,1 +1,0 @@
-[LOG] Generating AES 256-bit key 

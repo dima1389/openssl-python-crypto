@@ -1,0 +1,6 @@
+timestamp: "ned 15.06.2025. 18:56:52"
+algorithm: "RSA"
+bits: "4096"
+output_folder: "keys\\asymmetric-encryption\\RSA\\RSA4096"
+generated_files:
+- file: private_key.pem\n  sha256: 5b7e6bee1d575fba62edf3160790f489d22b2bbbe528100c849b2c98c817548f\n- file: private_key.pem\n  sha256: CertUtil:\n- file: private_key.der\n  sha256: 123f66912b916c10d7b659ad447bdcae99cd7e71a9b4a00446f69d5796b264f1\n- file: private_key.der\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: 1e0103dd19dac5813b296becad0f1635d4939f2a8abc15b960a0d84e94ea20dd\n- file: public_key.pem\n  sha256: CertUtil:\n- file: public_key.der\n  sha256: ee34381d92c04400260612f247355be7839f40371a259c46e381141bbf8d221c\n- file: public_key.der\n  sha256: CertUtil:\n
