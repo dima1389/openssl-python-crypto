@@ -1,0 +1,24 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:14",
+  "algorithm": "RSA",
+  "output_folder": "keys\\\\asymmetric-encryption\\\\RSA\\\\RSA3072",
+  "generated_files": [
+    {
+      "file": "private_key.pem",
+      "sha256": "dd1f20f0720c0eb1b548dc662bf9a52b40e2b22cad89046346df99b48d6852d1"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "5a2e57170fd2ee178e8fd569a4c281a8e7dd623be006c51dd5a2aeea228ccf82"
+    },
+    {
+      "file": "public_key.pem",
+      "sha256": "d3ab3064607d43c45011b2755973ecb1981c8906e6400f5f8e4f63075d5e238e"
+    },
+    {
+      "file": "public_key.der",
+      "sha256": "db87dc4ae7289114c9039055a3e9303ab35c5b28498824bed67667f8143dc869"
+    }
+  ],
+  "bits": "3072"
+}

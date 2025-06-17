@@ -1,9 +1,9 @@
 {
-  "timestamp": "ned 15.06.2025. 18:56:53",
+  "timestamp": "uto 17.06.2025. 11:59:33",
   "algorithm": "EC",
   "curve": "secp256k1",
   "output_folder": "keys\\asymmetric-encryption\\EC-Curves\\EC_secp256k1",
   "generated_files": [
-  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"f7421da9fdaa12db79c562276c45790a910c7bca50baa5c9e0d60d20fc3a8538\"\n  },\n  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"19849f1d103e1707b70c6ca421f9a89680f8979c40cf2484e6094dd84f06906a\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"5a6f07e2faa49d6f267a3573dc958e836dfb9bf82a50f195888c5c95322a6ce9\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"29ab5e07406c43bdc6acb03e21aefe2af7a703c1e66f6654a6e081d489dfaa3a\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },
+  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"a8f04ee6be2fd38c4aafeae9fabcf83740df0cbbdedfe924ba04697c228e6137\"\n  },\n  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"32a629a51371a21fff9458b7340026f44c53e1d4184516fb5d4813d5131e36aa\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"08baabe566211b167be5ae0cdc781bedfc1450a919de83d8e3cf4d2d6ef15759\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"6cfc7c8be56c935496c6f8f52b7a388ea0c8e692f8053222ed3a895f4f8c4b64\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },
   ]
 }

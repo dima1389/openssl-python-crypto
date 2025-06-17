@@ -1,0 +1,24 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:14",
+  "algorithm": "RSA",
+  "output_folder": "keys\\\\asymmetric-encryption\\\\RSA\\\\RSA2048",
+  "generated_files": [
+    {
+      "file": "private_key.pem",
+      "sha256": "935357e207ada522c67a42053295a2e54d893ba3cb708ffe9bd41e749a99ac65"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "8efe56fc279ffa1c9157b5bfabe37ad276cb4e65ffdd52c8306264c86fd3d8c2"
+    },
+    {
+      "file": "public_key.pem",
+      "sha256": "3ad2bcb1ea5f5c5a6876d3fb731a46dfbe18ddf2cc92d2e5d616114a027568ab"
+    },
+    {
+      "file": "public_key.der",
+      "sha256": "ef4e35d80e85bc59766c7534de79ebf8b8e4971159d5492a3b4e1de8fcb6a080"
+    }
+  ],
+  "bits": "2048"
+}

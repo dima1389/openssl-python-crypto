@@ -1,5 +1,5 @@
-timestamp: "ned 15.06.2025. 18:56:54"
+timestamp: "uto 17.06.2025. 11:59:34"
 algorithm: "ED25519"
 output_folder: "keys\\asymmetric-encryption\\EdDSA\\ED25519"
 generated_files:
-- file: private_key.pem\n  sha256: 624fe5e6dc2939477ed9db7fed5fd2df2f584bad5448b6fd63f386c4865c5d24\n- file: private_key.pem\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: f9a3f219d894d075972bb6f5c33f52eb8e85e9ce0cf70371e897eaefa26683ca\n- file: public_key.pem\n  sha256: CertUtil:\n
+- file: private_key.pem\n  sha256: bb2e68a33f403c33f927f6a89a3c0ff73000763ca122eec256241351d52de230\n- file: private_key.pem\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: bd75968579cdf3a969170e34121b83bee4349037955570bace9ba814a0f5e923\n- file: public_key.pem\n  sha256: CertUtil:\n

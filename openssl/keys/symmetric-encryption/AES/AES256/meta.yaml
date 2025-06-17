@@ -1,6 +1,6 @@
-timestamp: "ned 15.06.2025. 18:56:50"
+timestamp: "uto 17.06.2025. 11:59:30"
 algorithm: "AES"
 bits: "256"
 output_folder: "keys\\symmetric-encryption\\AES\\AES256"
 generated_files:
-- file: key.bin\n  sha256: f56bd32ffd47bf810889fa8b686cf4c1762644cffa84a44b546d8be27fbd8512\n- file: key.bin\n  sha256: CertUtil:\n
+- file: key.bin\n  sha256: 1d0ec718da2f7a22d3bd4c73c7453db92755d8c99d8439cd4dc0cc3e123576c7\n- file: key.bin\n  sha256: CertUtil:\n

@@ -1,0 +1,7 @@
+algorithm: AES
+bits: '192'
+generated_files:
+- file: key.bin
+  sha256: 54c5dc94f26d17c995b80d657ec67378d65de7ae72fab126eca6f944ed096161
+output_folder: keys\\symmetric-encryption\\AES\\AES192
+timestamp: Tue 17.06.2025. 12:18:14

@@ -1,6 +1,6 @@
-timestamp: "ned 15.06.2025. 18:56:53"
+timestamp: "uto 17.06.2025. 11:59:33"
 algorithm: "EC"
 curve: "secp384r1"
 output_folder: "keys\\asymmetric-encryption\\EC-Curves\\EC_secp384r1"
 generated_files:
-- file: private_key.pem\n  sha256: 3caf38c36e5ae501b3c1e704a7a79c5e38e8806edb509e14fbbbbb20ca958b77\n- file: private_key.pem\n  sha256: CertUtil:\n- file: private_key.der\n  sha256: f441374ebe0be98598f00a4d40748619927afd2c9e6a735aaa1870f7c0462f36\n- file: private_key.der\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: 28216ac0011b7803e6a77aae001b457f10ed56b7f1139269d1746482e836179f\n- file: public_key.pem\n  sha256: CertUtil:\n- file: public_key.der\n  sha256: 77652fed5fe5f0bea0976c139403042aede3766a0df5c8d77f69144c0cbc5429\n- file: public_key.der\n  sha256: CertUtil:\n
+- file: private_key.pem\n  sha256: ce0860a9c6bea7e73c755ef532dd0353bd39fb4a821c5742382536e66ea698a3\n- file: private_key.pem\n  sha256: CertUtil:\n- file: private_key.der\n  sha256: f91ef1ded251509407f45f2dd033f17bb8be8c9c90fc347401f36ce6c8948a7f\n- file: private_key.der\n  sha256: CertUtil:\n- file: public_key.pem\n  sha256: 65657fef5a9ea5b5f52dd3fd58cf0b70e872630da5237c6c55418c0924cf99a6\n- file: public_key.pem\n  sha256: CertUtil:\n- file: public_key.der\n  sha256: efe428a3a6f0b947cb57ca2eb8614f0d78768fce9061c6519a9f923f9ab106f9\n- file: public_key.der\n  sha256: CertUtil:\n

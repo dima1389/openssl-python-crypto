@@ -1,9 +1,9 @@
 {
-  "timestamp": "ned 15.06.2025. 18:56:50",
+  "timestamp": "uto 17.06.2025. 11:59:29",
   "algorithm": "AES",
   "bits": "128",
   "output_folder": "keys\\symmetric-encryption\\AES\\AES128",
   "generated_files": [
-  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"c6533c920586af185f45927ef4f023e65924fe51fc03d5a841ea4b445c1e0b56\"\n  },\n  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"CertUtil:\"\n  },
+  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"781d62efb20f89ce75adb992a888091c227553d303c5b0737d5c873aae890638\"\n  },\n  {\n    \"file\": \"key.bin\",\n    \"sha256\": \"CertUtil:\"\n  },
   ]
 }

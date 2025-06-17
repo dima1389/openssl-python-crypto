@@ -1,9 +1,9 @@
 {
-  "timestamp": "ned 15.06.2025. 18:56:52",
+  "timestamp": "uto 17.06.2025. 11:59:32",
   "algorithm": "RSA",
   "bits": "4096",
   "output_folder": "keys\\asymmetric-encryption\\RSA\\RSA4096",
   "generated_files": [
-  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"5b7e6bee1d575fba62edf3160790f489d22b2bbbe528100c849b2c98c817548f\"\n  },\n  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"123f66912b916c10d7b659ad447bdcae99cd7e71a9b4a00446f69d5796b264f1\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"1e0103dd19dac5813b296becad0f1635d4939f2a8abc15b960a0d84e94ea20dd\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"ee34381d92c04400260612f247355be7839f40371a259c46e381141bbf8d221c\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },
+  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"1cd0dd9ea83c143f1e8b2bf5b8ecbe2f6446080dd990f0a95bd3d311b5d743f3\"\n  },\n  {\n    \"file\": \"private_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"15bcb4360e8398584675af1475562f53af65fa252cc7c93e80ef8648e5e0e86d\"\n  },\n  {\n    \"file\": \"private_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"3126f8df2637128cdab4a98548d83983e3bbeb9052364d769c314e5e68ae17ea\"\n  },\n  {\n    \"file\": \"public_key.pem\",\n    \"sha256\": \"CertUtil:\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"0af8d8c51ad57bebd3fae82a17b48e38a686c8baca614bd1fd2c40dbd7629161\"\n  },\n  {\n    \"file\": \"public_key.der\",\n    \"sha256\": \"CertUtil:\"\n  },
   ]
 }

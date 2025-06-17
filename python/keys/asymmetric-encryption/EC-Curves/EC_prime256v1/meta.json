@@ -1,0 +1,24 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:16",
+  "algorithm": "EC",
+  "output_folder": "keys\\\\asymmetric-encryption\\\\EC-Curves\\\\EC_prime256v1",
+  "generated_files": [
+    {
+      "file": "private_key.pem",
+      "sha256": "4cf55a08cbf3b8682199e38c21744d4eb8b8a7b6b308d5222d55ab434efe2e69"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "266368527ca947ef04702cb92c01f56d70a40e35f8a956f7721fe18f75f11eaa"
+    },
+    {
+      "file": "public_key.pem",
+      "sha256": "25aed239502becfcb96e6ff632daab1e0b4f98c998cdcdfd00a76a0bb137ebfd"
+    },
+    {
+      "file": "public_key.der",
+      "sha256": "e0150d828cd09481cb4bb1a246fa0feb8326cb052c7a6a8f14bbee0113a877f8"
+    }
+  ],
+  "curve": "prime256v1"
+}

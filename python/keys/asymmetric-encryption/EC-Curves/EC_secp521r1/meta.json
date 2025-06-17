@@ -1,0 +1,24 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:16",
+  "algorithm": "EC",
+  "output_folder": "keys\\\\asymmetric-encryption\\\\EC-Curves\\\\EC_secp521r1",
+  "generated_files": [
+    {
+      "file": "private_key.pem",
+      "sha256": "3a4879e230039ba5dead7cc9161c2aa072ef0f0223ce5ed058ddd41ddabe9fc3"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "e826a40b26a4419a3982e9ea4c4d79f23a80af920654bc869e2cb1f22cba7452"
+    },
+    {
+      "file": "public_key.pem",
+      "sha256": "2fb3e70b2c10083941314f1aa30978bfbe3058281b0148549cd95be5efeb704a"
+    },
+    {
+      "file": "public_key.der",
+      "sha256": "28cc030d67f1a2618a62f329dd6aa8b489060a334bd8a1a81faffdd116246371"
+    }
+  ],
+  "curve": "secp521r1"
+}

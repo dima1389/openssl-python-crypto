@@ -1,0 +1,13 @@
+algorithm: EC
+curve: secp384r1
+generated_files:
+- file: private_key.pem
+  sha256: 96fa058731c10704af4b7baa1ac09d0ffc1dcbc90a481760eccf7ebc24cb22d6
+- file: private_key.der
+  sha256: ce4ffd88d90315bc7ff4aa94ce0ad4df868ebc14d3bf04c27c3ca149e8184ffe
+- file: public_key.pem
+  sha256: 15423fe3a8b4d7ec64249bb901abe0eded0e7990a96ce73f51222530f6b75672
+- file: public_key.der
+  sha256: 81d5b9d65037de6a7f985a2ae316245c524c9cd48ab1637a6b4c19c24d927635
+output_folder: keys\\asymmetric-encryption\\EC-Curves\\EC_secp384r1
+timestamp: Tue 17.06.2025. 12:18:16

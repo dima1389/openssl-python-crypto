@@ -1,0 +1,12 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:14",
+  "algorithm": "AES",
+  "output_folder": "keys\\\\symmetric-encryption\\\\AES\\\\AES128",
+  "generated_files": [
+    {
+      "file": "key.bin",
+      "sha256": "401e37c1b11fded0bbd76508e120b0925037996300798cff70984bee6019f54b"
+    }
+  ],
+  "bits": "128"
+}

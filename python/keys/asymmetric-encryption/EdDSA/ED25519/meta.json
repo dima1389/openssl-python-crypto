@@ -1,0 +1,15 @@
+{
+  "timestamp": "Tue 17.06.2025. 12:18:16",
+  "algorithm": "ED25519",
+  "output_folder": "keys\\\\asymmetric-encryption\\\\EdDSA\\\\ED25519",
+  "generated_files": [
+    {
+      "file": "private_key.pem",
+      "sha256": "82df2504b11e5a183651018cdbeb0109669405c670059b46a106fceeda901bc4"
+    },
+    {
+      "file": "public_key.pem",
+      "sha256": "799e162439d97239020162f5649feaf10a27a48357ab3d72119d77804959ed6e"
+    }
+  ]
+}

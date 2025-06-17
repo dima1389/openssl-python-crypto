@@ -1,0 +1,13 @@
+[Tue 17.06.2025. 12:18:14] Generated AES 128-bit key -> keys\symmetric-encryption\AES\AES128
+[Tue 17.06.2025. 12:18:14] Generated AES 192-bit key -> keys\symmetric-encryption\AES\AES192
+[Tue 17.06.2025. 12:18:14] Generated AES 256-bit key -> keys\symmetric-encryption\AES\AES256
+[Tue 17.06.2025. 12:18:14] Generated RSA 2048-bit key pair -> keys\asymmetric-encryption\RSA\RSA2048
+[Tue 17.06.2025. 12:18:14] Generated RSA 3072-bit key pair -> keys\asymmetric-encryption\RSA\RSA3072
+[Tue 17.06.2025. 12:18:16] Generated RSA 4096-bit key pair -> keys\asymmetric-encryption\RSA\RSA4096
+[Tue 17.06.2025. 12:18:16] Generated EC prime256v1 key -> keys\asymmetric-encryption\EC-Curves\EC_prime256v1
+[Tue 17.06.2025. 12:18:16] Generated EC secp384r1 key -> keys\asymmetric-encryption\EC-Curves\EC_secp384r1
+[Tue 17.06.2025. 12:18:16] Generated EC secp521r1 key -> keys\asymmetric-encryption\EC-Curves\EC_secp521r1
+[Tue 17.06.2025. 12:18:16] Generated EC secp256k1 key -> keys\asymmetric-encryption\EC-Curves\EC_secp256k1
+[Tue 17.06.2025. 12:18:16] Generated ED25519 key -> keys\asymmetric-encryption\EdDSA\ED25519
+[Tue 17.06.2025. 12:18:16] Generated ED448 key -> keys\asymmetric-encryption\EdDSA\ED448
+[Tue 17.06.2025. 12:18:16] === Key Generation Complete ===

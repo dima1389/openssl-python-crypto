@@ -1,15 +1,15 @@
-[ned 15.06.2025. 18:56:50] === Key Generation Started === 
-[ned 15.06.2025. 18:56:50] Generated AES 128-bit key -
-[ned 15.06.2025. 18:56:50] Generated AES 192-bit key -
-[ned 15.06.2025. 18:56:50] Generated AES 256-bit key -
-[ned 15.06.2025. 18:56:50] Generated RSA 2048-bit key pair -
-[ned 15.06.2025. 18:56:51] Generated RSA 3072-bit key pair -
-[ned 15.06.2025. 18:56:52] Generated RSA 4096-bit key pair -
-[ned 15.06.2025. 18:56:52] Generated EC prime256v1 key -
-[ned 15.06.2025. 18:56:52] Generated EC secp384r1 key -
-[ned 15.06.2025. 18:56:53] Generated EC secp521r1 key -
-[ned 15.06.2025. 18:56:53] Generated EC secp256k1 key -
-[ned 15.06.2025. 18:56:54] Generated DSA 2048-bit key -
-[ned 15.06.2025. 18:56:54] Generated ED25519 key -
-[ned 15.06.2025. 18:56:54] Generated ED448 key -
-[ned 15.06.2025. 18:56:54] === Key Generation Complete === 
+[uto 17.06.2025. 11:59:29] === Key Generation Started === 
+[uto 17.06.2025. 11:59:29] Generated AES 128-bit key -
+[uto 17.06.2025. 11:59:30] Generated AES 192-bit key -
+[uto 17.06.2025. 11:59:30] Generated AES 256-bit key -
+[uto 17.06.2025. 11:59:30] Generated RSA 2048-bit key pair -
+[uto 17.06.2025. 11:59:31] Generated RSA 3072-bit key pair -
+[uto 17.06.2025. 11:59:32] Generated RSA 4096-bit key pair -
+[uto 17.06.2025. 11:59:33] Generated EC prime256v1 key -
+[uto 17.06.2025. 11:59:33] Generated EC secp384r1 key -
+[uto 17.06.2025. 11:59:33] Generated EC secp521r1 key -
+[uto 17.06.2025. 11:59:33] Generated EC secp256k1 key -
+[uto 17.06.2025. 11:59:34] Generated DSA 2048-bit key -
+[uto 17.06.2025. 11:59:34] Generated ED25519 key -
+[uto 17.06.2025. 11:59:34] Generated ED448 key -
+[uto 17.06.2025. 11:59:34] === Key Generation Complete === 
