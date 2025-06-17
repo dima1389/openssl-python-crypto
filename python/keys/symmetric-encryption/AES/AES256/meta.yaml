@@ -2,6 +2,9 @@ algorithm: AES
 bits: '256'
 generated_files:
 - file: key.bin
-  sha256: 20ca00639c8aac5a36172df781d1dbec0bfceb65ab9d6737cb62027aff28db5e
-output_folder: keys\\symmetric-encryption\\AES\\AES256
-timestamp: Tue 17.06.2025. 12:18:14
+  sha256: 7f5b5b19f7f7420dae7fc651afbd0cf66b33d3408df81b320e95cea0c6c1f458
+host: DESKTOP-EO2KI6T
+output_folder: keys\symmetric-encryption\AES\AES256
+python_version: 3.13.2
+timestamp: Tue 17.06.2025. 12:27:09
+user: Dimitrije

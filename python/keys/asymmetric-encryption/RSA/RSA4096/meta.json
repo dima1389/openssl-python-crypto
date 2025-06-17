@@ -1,24 +1,27 @@
 {
-  "timestamp": "Tue 17.06.2025. 12:18:16",
+  "timestamp": "Tue 17.06.2025. 12:27:10",
   "algorithm": "RSA",
-  "output_folder": "keys\\\\asymmetric-encryption\\\\RSA\\\\RSA4096",
+  "output_folder": "keys\\asymmetric-encryption\\RSA\\RSA4096",
   "generated_files": [
     {
       "file": "private_key.pem",
-      "sha256": "a0e113864710b602381ac718ddbaf18eee22cd48da26aca8eab14a01b11fb2fd"
-    },
-    {
-      "file": "private_key.der",
-      "sha256": "b4d34b14916d8432443ff506b67abce8d8e63563630942affa93d99eeda68128"
+      "sha256": "236d466fe4ee974ce29fe4460392f293ea46267c650304461a17ac49be9a183f"
     },
     {
       "file": "public_key.pem",
-      "sha256": "16b9bf6f6598cf9b89aa80dac2e591931a3638408f7fa901d8a1df88f3a83a6f"
+      "sha256": "c6a83b6f330192889187ef0a5ed52fa8915d0de7ac3ded5fe081da489fd28c8e"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "735661a4992e6fdc9aeec7d7d337fd3e094c3aa2573495d059ca51f9148da636"
     },
     {
       "file": "public_key.der",
-      "sha256": "d07a947680f93b09481caecb3094a7316a2444c4e0cb3ab5698b66a2ac54c93a"
+      "sha256": "24005d9fbe748d8837bb1e4a47fcb6d825da69aa5ac3df4f968d49787947054b"
     }
   ],
+  "user": "Dimitrije",
+  "host": "DESKTOP-EO2KI6T",
+  "python_version": "3.13.2",
   "bits": "4096"
 }

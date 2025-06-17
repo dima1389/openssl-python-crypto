@@ -2,12 +2,15 @@ algorithm: EC
 curve: secp384r1
 generated_files:
 - file: private_key.pem
-  sha256: 96fa058731c10704af4b7baa1ac09d0ffc1dcbc90a481760eccf7ebc24cb22d6
-- file: private_key.der
-  sha256: ce4ffd88d90315bc7ff4aa94ce0ad4df868ebc14d3bf04c27c3ca149e8184ffe
+  sha256: 204a96238661600dd52ed134893f110d931920eb441886444593339b387d184c
 - file: public_key.pem
-  sha256: 15423fe3a8b4d7ec64249bb901abe0eded0e7990a96ce73f51222530f6b75672
+  sha256: c35d1115fbac801f07dfab94ac59a912d73b9f8efb8e9a39ab1f32b668127247
+- file: private_key.der
+  sha256: 5cfbd11b1c9d9e027155a174dcdbe4b35f9677bc2da98287bedccaf18f6de783
 - file: public_key.der
-  sha256: 81d5b9d65037de6a7f985a2ae316245c524c9cd48ab1637a6b4c19c24d927635
-output_folder: keys\\asymmetric-encryption\\EC-Curves\\EC_secp384r1
-timestamp: Tue 17.06.2025. 12:18:16
+  sha256: e4c16360d8e1ff502158c2d47fdf32f0bdd73c44c29fd72405f5ec7d11951fa8
+host: DESKTOP-EO2KI6T
+output_folder: keys\asymmetric-encryption\EC-Curves\EC_secp384r1
+python_version: 3.13.2
+timestamp: Tue 17.06.2025. 12:27:10
+user: Dimitrije

@@ -1,8 +1,11 @@
 algorithm: ED448
 generated_files:
 - file: private_key.pem
-  sha256: d92f8ce722c27a1f00f051632fa8d2ee634faa0a6159101d2c6e85566aa0c393
+  sha256: 06b509040a6e8d4099f9ce5220d7b9bd747054d97a22ac0285f1ebfc82dcd496
 - file: public_key.pem
-  sha256: 8c22f46b8e6d244c19467ecb37dbf1bec1e58a3a60d2d56048f8837dd7ad5c7e
-output_folder: keys\\asymmetric-encryption\\EdDSA\\ED448
-timestamp: Tue 17.06.2025. 12:18:16
+  sha256: 3df3ce23a8c475e004f600cda7549997ca5396ea45acaec7464c95766b6e545d
+host: DESKTOP-EO2KI6T
+output_folder: keys\asymmetric-encryption\EdDSA\ED448
+python_version: 3.13.2
+timestamp: Tue 17.06.2025. 12:27:10
+user: Dimitrije

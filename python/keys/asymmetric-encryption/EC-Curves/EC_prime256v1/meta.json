@@ -1,24 +1,27 @@
 {
-  "timestamp": "Tue 17.06.2025. 12:18:16",
+  "timestamp": "Tue 17.06.2025. 12:27:10",
   "algorithm": "EC",
-  "output_folder": "keys\\\\asymmetric-encryption\\\\EC-Curves\\\\EC_prime256v1",
+  "output_folder": "keys\\asymmetric-encryption\\EC-Curves\\EC_prime256v1",
   "generated_files": [
     {
       "file": "private_key.pem",
-      "sha256": "4cf55a08cbf3b8682199e38c21744d4eb8b8a7b6b308d5222d55ab434efe2e69"
-    },
-    {
-      "file": "private_key.der",
-      "sha256": "266368527ca947ef04702cb92c01f56d70a40e35f8a956f7721fe18f75f11eaa"
+      "sha256": "f5115dd8a017409a4990d017896da6d7ddc86df62ee149d61eb5db9c1a367e03"
     },
     {
       "file": "public_key.pem",
-      "sha256": "25aed239502becfcb96e6ff632daab1e0b4f98c998cdcdfd00a76a0bb137ebfd"
+      "sha256": "13a674c7a8dc50478457c57a1a101dcb9e62c60bfdec44631ca16526af8e461c"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "0e5c11182a39ce4ac6dbe9960531daebc601d51eb4bfb390e96a280cde7eea38"
     },
     {
       "file": "public_key.der",
-      "sha256": "e0150d828cd09481cb4bb1a246fa0feb8326cb052c7a6a8f14bbee0113a877f8"
+      "sha256": "6bc994563cf5479df8c480af17586600d947b2199121b86edf46a5b981abc2ff"
     }
   ],
+  "user": "Dimitrije",
+  "host": "DESKTOP-EO2KI6T",
+  "python_version": "3.13.2",
   "curve": "prime256v1"
 }

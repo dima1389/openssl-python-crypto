@@ -1,24 +1,27 @@
 {
-  "timestamp": "Tue 17.06.2025. 12:18:14",
+  "timestamp": "Tue 17.06.2025. 12:27:09",
   "algorithm": "RSA",
-  "output_folder": "keys\\\\asymmetric-encryption\\\\RSA\\\\RSA3072",
+  "output_folder": "keys\\asymmetric-encryption\\RSA\\RSA3072",
   "generated_files": [
     {
       "file": "private_key.pem",
-      "sha256": "dd1f20f0720c0eb1b548dc662bf9a52b40e2b22cad89046346df99b48d6852d1"
-    },
-    {
-      "file": "private_key.der",
-      "sha256": "5a2e57170fd2ee178e8fd569a4c281a8e7dd623be006c51dd5a2aeea228ccf82"
+      "sha256": "ad7b65444fdd96e405b1b0adb50077314363983a176a471c45914d0b25e569af"
     },
     {
       "file": "public_key.pem",
-      "sha256": "d3ab3064607d43c45011b2755973ecb1981c8906e6400f5f8e4f63075d5e238e"
+      "sha256": "eed78cc24e6f58f0b4c85ee1cd6517f7427c695531c6a4f53636cbf762cddd2b"
+    },
+    {
+      "file": "private_key.der",
+      "sha256": "701fd268bdfea9551ee8b3dcd436d9121aa99ecc3952e5ce2ab05f367f12a266"
     },
     {
       "file": "public_key.der",
-      "sha256": "db87dc4ae7289114c9039055a3e9303ab35c5b28498824bed67667f8143dc869"
+      "sha256": "e8546871e25deeade192bc5af07871eaea46352536d55bba1081d55d7bca5c45"
     }
   ],
+  "user": "Dimitrije",
+  "host": "DESKTOP-EO2KI6T",
+  "python_version": "3.13.2",
   "bits": "3072"
 }

@@ -1,12 +1,15 @@
 {
-  "timestamp": "Tue 17.06.2025. 12:18:14",
+  "timestamp": "Tue 17.06.2025. 12:27:09",
   "algorithm": "AES",
-  "output_folder": "keys\\\\symmetric-encryption\\\\AES\\\\AES128",
+  "output_folder": "keys\\symmetric-encryption\\AES\\AES128",
   "generated_files": [
     {
       "file": "key.bin",
-      "sha256": "401e37c1b11fded0bbd76508e120b0925037996300798cff70984bee6019f54b"
+      "sha256": "fef0068dd05d6f4f9fe7d5b5c92a899cbceb95ace2832d946c6ceef9f6abba66"
     }
   ],
+  "user": "Dimitrije",
+  "host": "DESKTOP-EO2KI6T",
+  "python_version": "3.13.2",
   "bits": "128"
 }

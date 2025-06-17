@@ -1,8 +1,11 @@
 algorithm: ED25519
 generated_files:
 - file: private_key.pem
-  sha256: 82df2504b11e5a183651018cdbeb0109669405c670059b46a106fceeda901bc4
+  sha256: a995b3872dead43104f27e29ef5a83154e67c88cb8012fa9f696500777b9603f
 - file: public_key.pem
-  sha256: 799e162439d97239020162f5649feaf10a27a48357ab3d72119d77804959ed6e
-output_folder: keys\\asymmetric-encryption\\EdDSA\\ED25519
-timestamp: Tue 17.06.2025. 12:18:16
+  sha256: fff8a029e061c4d836b82d42c0be2fa082cb1f14e0e5f38dcbf35827f69e56d2
+host: DESKTOP-EO2KI6T
+output_folder: keys\asymmetric-encryption\EdDSA\ED25519
+python_version: 3.13.2
+timestamp: Tue 17.06.2025. 12:27:10
+user: Dimitrije

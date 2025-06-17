@@ -2,12 +2,15 @@ algorithm: EC
 curve: secp256k1
 generated_files:
 - file: private_key.pem
-  sha256: c7ee637660ac9decca86130683ded049099abe8d05899906cca6cb421f2d108f
-- file: private_key.der
-  sha256: a3571ff169bed212a5d31fd3bd3a6fabc0795e853c90db7a3a5bab986ef6f44f
+  sha256: a35a281fe37faedfb127a9fe873317353adab7ddd147ac64d2fb06e9a8a1e22a
 - file: public_key.pem
-  sha256: dafe7c89862a10de875dca2b8a5d0111a33ccd60efff821807b6a40ad2cfae6d
+  sha256: 630d5ec9c96119a42493d846436baf29e4116a989548c290ba191a8e39af0355
+- file: private_key.der
+  sha256: 3cb04d9c036d435224b0687dfcc15926aae8ad8b82f011b53ab9dee0e805f395
 - file: public_key.der
-  sha256: d086dd553a4aa0c47db5cd60a96b23f89d2854b4de41ffbcfbd0dad8b8eadbe3
-output_folder: keys\\asymmetric-encryption\\EC-Curves\\EC_secp256k1
-timestamp: Tue 17.06.2025. 12:18:16
+  sha256: 17ffc38dc5a41c4d17b7858a264c457f622c54fca697ccde7ad7da08ce2d7699
+host: DESKTOP-EO2KI6T
+output_folder: keys\asymmetric-encryption\EC-Curves\EC_secp256k1
+python_version: 3.13.2
+timestamp: Tue 17.06.2025. 12:27:10
+user: Dimitrije
